@@ -1,4 +1,1 @@
-# Marathon on Marathon JPMC Setup
----
-
-# dcos-setups
+# Marathon on Marathon Setup
